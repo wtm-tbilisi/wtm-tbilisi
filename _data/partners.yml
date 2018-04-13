@@ -1,7 +1,6 @@
 - 
   elements:
     - {name: "Google", description: "Google", link: "https://google.com/", imageUrl: "google.svg"}
-    - {name: "USEmbassy", description: "US Embassy", link: "https://ge.usembassy.gov/", imageUrl: "usembassy.jpg"}
 
 -
 #  group: 'მედია'

@@ -45,27 +45,27 @@ c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0
 navigationLinks:
  - {permalink: "/", text: "მთავარი"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "პროგრამა"}
- - {permalink: "/speakers/", text: "სპიკერები"}
+ #- {permalink: "/schedule/", text: "პროგრამა"}
+ #- {permalink: "/speakers/", text: "სპიკერები"}
+ - {permalink: "/#organizers", text: "ორგანიზატორები"}
  - {permalink: "/#partners", text: "პარტნიორები"}
- #- {permalink: "/team/", text: "Team"}
+ - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "რეგისტრაცია"}
+ - {permalink: "https://wtm-tbilisi.github.io/wtm17/", text: "WTM 2017"}
  #- {permalink: "/logistics/", text: "მდებარეობა"}
- #- {permalink: "/startup/", text: "Startup Launch"}
  # - {permalink: "https://www.youtube.com/watch?v=UBIPRliSFVk", text: "WTMTbilisi'14"}
 #bottomNavigationLinks:
-# - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 #rightNavigationButtons:
 # - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM თბილისი 2017"
-eventDate: "22-23 აპრილი, 2017"
+heroTitle: "WTM თბილისი 2018"
+eventDate: "11-13 მაისი, 2018"
 typeoutTextValues: '"Women", "Techmakers", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/schedule/", text: "პროგრამა"}
- #- {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
+ #- {permalink: "/schedule/", text: "პროგრამა"}
+ - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "რეგისტრაცია"}
 
 # About Block
 aboutTitle: "Women Techmakers თბილისი"
@@ -77,8 +77,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "80", info: "დამსწრე", detail: "საქართველოს სხვადასხვა რეგიონებიდან"}
- - {count: "14", info: "სპიკერი", detail: "პროფესიონალები სხვადასხვა სფეროდან"}
- - {count: "26", info: "მენტორი", detail: "გამოცდილი პროგრამისტები"}
+ - {count: "10", info: "სპიკერი", detail: "პროფესიონალები სხვადასხვა სფეროდან"}
+ - {count: "20", info: "მენტორი", detail: "გამოცდილი პროგრამისტები"}
 
 # Latest News Block
 latestNewsTitle: "ინიციატივის შესახებ"
@@ -91,19 +91,19 @@ rockstarSpeakersButtonText: "ყველა სპიკერი"
 
 # Location Block
 locationBlockTitle: "ადგილი"
-eventLocationName: "ფაბრიკა`"
-eventLocationLink: "https://www.google.ge/maps/place/Fabrika+Tbilisi/@41.7095404,44.8007214,17z"
-eventStreetAddress: "ეგნატე ნინოშვილის ქუჩა #8"
-eventAddressLocality: "თბილისი"
+eventLocationName: "ბაზალეთის სასწავლო ცენტრი"
+eventLocationLink: ""
+#eventStreetAddress: "ბაზალეთის სასწავლო ცენტრი"
+#eventAddressLocality: "თბილისი"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
 eventAddressCountry: "საქართველო"
 eventStartTime: "2017-04-22T11:00"
 eventDoorTime: "10:30"
 eventEndTime: "2017-04-23T17:00"
-eventPlaceCoordinates: "41.7095404,44.8007214"
-mapCenterCoordinates: "41.7095404,44.8007214"
-mapMobileCenterCoordinates: "41.7095404,44.8007214"
+eventPlaceCoordinates: "42.060969,44.6928308"
+mapCenterCoordinates: "42.060969,44.6928308"
+mapMobileCenterCoordinates: "42.060969,44.6928308"
 
 # Venue Block
 venueBlockTitle: "Konferans alanı"
@@ -231,6 +231,6 @@ hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "Google Maps-ზე ნახვა"
-hackathonPlaceCoordinates: "41.8066109,44.7692284"
-hackathonMapCenterCoordinates: "41.8066109,44.7692284"
-hackathonMapMobileCenterCoordinates: "41.8066109,44.7692284"
+hackathonPlaceCoordinates: "42.060969,44.6928308"
+hackathonMapCenterCoordinates: "42.060969,44.6928308"
+hackathonMapMobileCenterCoordinates: "42.060969,44.6928308"
