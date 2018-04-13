@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "WTM Tbilisi 2017"
+title: "WTM Tbilisi 2018"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
 baseurl: "" #:/wtm17"
