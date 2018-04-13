@@ -49,7 +49,8 @@ navigationLinks:
  #- {permalink: "/speakers/", text: "სპიკერები"}
  - {permalink: "/#organizers", text: "ორგანიზატორები"}
  - {permalink: "/#partners", text: "პარტნიორები"}
- - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "რეგისტრაცია"}
+ - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "დარეგისტრირდი მონაწილედ"}
+ - {link: "https://docs.google.com/forms/d/1DoZEgjFGYrHgj3KpqvKYKBiw4wslxGREp2_t34X3LKs/edit", text: "დარეგისტრირდი სპიკერად"}
  - {permalink: "https://wtm-tbilisi.github.io/wtm17/", text: "WTM 2017"}
  #- {permalink: "/logistics/", text: "მდებარეობა"}
  # - {permalink: "https://www.youtube.com/watch?v=UBIPRliSFVk", text: "WTMTbilisi'14"}
@@ -65,7 +66,8 @@ typeoutTextValues: '"Women", "Techmakers", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
  #- {permalink: "/schedule/", text: "პროგრამა"}
- - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "რეგისტრაცია"}
+ - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "დარეგისტრირდი მონაწილედ"}
+ - {link: "https://docs.google.com/forms/d/1DoZEgjFGYrHgj3KpqvKYKBiw4wslxGREp2_t34X3LKs/edit", text: "დარეგისტრირდი სპიკერად"}
 
 # About Block
 aboutTitle: "Women Techmakers თბილისი"
