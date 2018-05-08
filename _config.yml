@@ -45,14 +45,12 @@ c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0
 navigationLinks:
  - {permalink: "/", text: "მთავარი"}
  #- {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "პროგრამა"}
- #- {permalink: "/speakers/", text: "სპიკერები"}
+ - {permalink: "/schedule/", text: "პროგრამა"}
+ - {permalink: "/speakers/", text: "სპიკერები"}
+ - {permalink: "/#location-map", text: "მდებარეობა"}
  - {permalink: "/#organizers", text: "ორგანიზატორები"}
  - {permalink: "/#partners", text: "პარტნიორები"}
- - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "დარეგისტრირდი მონაწილედ"}
- - {link: "https://docs.google.com/forms/d/1DoZEgjFGYrHgj3KpqvKYKBiw4wslxGREp2_t34X3LKs/edit", text: "დარეგისტრირდი სპიკერად"}
  - {permalink: "https://wtm-tbilisi.github.io/wtm17/", text: "WTM 2017"}
- #- {permalink: "/logistics/", text: "მდებარეობა"}
  # - {permalink: "https://www.youtube.com/watch?v=UBIPRliSFVk", text: "WTMTbilisi'14"}
 #bottomNavigationLinks:
 #rightNavigationButtons:
@@ -65,9 +63,7 @@ eventDate: "11-13 მაისი, 2018"
 typeoutTextValues: '"Women", "Techmakers", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
- #- {permalink: "/schedule/", text: "პროგრამა"}
- - {link: "https://docs.google.com/forms/d/1hGJ2bgJjbgTqPk7AoeigXmoR0Of-ngOyztkt79KoISY/edit", text: "დარეგისტრირდი მონაწილედ"}
- - {link: "https://docs.google.com/forms/d/1DoZEgjFGYrHgj3KpqvKYKBiw4wslxGREp2_t34X3LKs/edit", text: "დარეგისტრირდი სპიკერად"}
+ - {permalink: "/schedule/", text: "პროგრამა"}
 
 # About Block
 aboutTitle: "Women Techmakers თბილისი"
@@ -78,8 +74,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "80", info: "დამსწრე", detail: "საქართველოს სხვადასხვა რეგიონებიდან"}
- - {count: "10", info: "სპიკერი", detail: "პროფესიონალები სხვადასხვა სფეროდან"}
+ - {count: "82", info: "დამსწრე", detail: "საქართველოს სხვადასხვა რეგიონებიდან"}
+ - {count: "13", info: "სპიკერი", detail: "პროფესიონალები სხვადასხვა სფეროდან"}
  - {count: "20", info: "მენტორი", detail: "გამოცდილი პროგრამისტები"}
 
 # Latest News Block

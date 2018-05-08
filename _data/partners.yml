@@ -1,6 +1,9 @@
 - 
   elements:
     - {name: "Google", description: "Google", link: "https://google.com/", imageUrl: "google.svg"}
+    - {name: "ტერაბანკი", description: "ტერაბანკი", link: "https://terabank.ge/", imageUrl: "Tera.png"}
+    - {name: "თბილისის მერია", description: "", link: "http://www.tbilisi.gov.ge/", imageUrl: "Meria.png"}
+    - {name: "ჯიტა", description: "", link: "https://gita.gov.ge/", imageUrl: "Gita.png"}
 
 -
 #  group: 'მედია'
