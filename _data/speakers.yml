@@ -13,13 +13,7 @@
   surname: "ქოჩლაძე"
   company: "Youth  and Enviroment Europe YEE  - Board Member, Georgia Youth Eco Movement SAEM - Vice President , JSC Borjomminwaters Quality Mannager"
   title: ""
-  bio: "განათლება: 1986 - კომაროვის სახ. სკოლა; 1992 თსუ კიბერნეტიკის და გამ.მათემატიკის ფაკულტეტი (წითელი დიპლომი); 
-  სამუშაო გამოცდილება: გამოთვ.ცენტრი სირენა; 
-  ივერსი-ს პროგრამირების განყოფილების მენეჯერი; 
-  შპს კიბერის დირექტორი;
-  ინფორმატიკულ-ლინგვისტური ცენტრის გამგეობის წევრი;
-  GG&MW პროგრამისტი;
-  სს თელასი პროგრამისტი;"
+  bio: ""
   thumbnailUrl: "ketevan_kochladze.jpg"
 
 -
@@ -33,12 +27,13 @@
 
 -
   id: 3
-  name: "გოგა"
-  surname: "ჩინჩალაძე"
-  company: "დიასახლისი, დროებით უმუშევარი"
+  name: "გოგა ჩინჩალაძე,"
+  surname: "სალომე ცირამუა"
+  company: "გოგა - დიასახლისი, დროებით უმუშევარი, სალომე - Senior iOS Developer @Leavingstone"
   title: ""
-  bio: ""
-  thumbnailUrl: "goga_chinchaladze.jpg"
+  bio: "წარმატებული პროექტები: \n\nგოგა: სულ რამოდენიმე დღის წინ ვებ პროგრამირების ოსკარი, Webby მოვიგეთ, პროექტით http://tbilisigardens.ge/
+       \nსალომე: პრეზიდენტთან რომ მწვადი ვჭამე, მგონი არ იყო პატარა საქმე."
+  thumbnailUrl: "goga_salome.jpg"
 
 -
   id: 4
@@ -113,12 +108,3 @@
   thumbnailUrl: "ninutsa.jpg"
   social: 
     - {name: "linkedin", link: "www.linkedin.com/pub/nino-nanitashvili/b1/492/401/en"}
-
--
-  id: 12
-  name: "სალომე"
-  surname: "ცირამუა"
-  company: "Leavingstone"
-  title: "Senior iOS Developer"
-  bio: ""
-  thumbnailUrl: "salome_tsiramua.jgp"
